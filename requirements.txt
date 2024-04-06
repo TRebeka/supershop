@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+mfplotly.graph_objects
+altair
+millify
