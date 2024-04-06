@@ -1,6 +1,6 @@
 streamlit
 pandas
 plotly.express
+millify
 mfplotly.graph_objects
 altair
-millify
